@@ -1,0 +1,8 @@
+telethon>=1.28.5
+edge-tts>=6.1.9
+pydub>=0.25.1
+PyMuPDF>=1.23.7
+python-docx>=0.8.11
+psutil>=5.9.0
+asyncio>=3.4.3
+python-magic>=0.4.27
